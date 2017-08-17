@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/test-ejs-boiler.iml" filepath="$PROJECT_DIR$/.idea/test-ejs-boiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ejs-test.iml" filepath="$PROJECT_DIR$/.idea/ejs-test.iml" />
     </modules>
   </component>
 </project>

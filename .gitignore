@@ -1,4 +1,5 @@
 # Jet Brains Files
-
+*.iml
+.idea/
 
 node_modules
